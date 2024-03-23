@@ -1,6 +1,6 @@
 # Git e GitHub: Formação Básica 
 Este é o repositório do curso de LinkedIn Learning `Git e GitHub: Formação Básica`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
-
+testeauladevopsamanda
 ![Título completo do curso][lil-thumbnail-url] 
 
 Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
